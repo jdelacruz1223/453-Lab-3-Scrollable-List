@@ -1,3 +1,9 @@
 # scrollable_list
 
-A new Flutter project.
+Lab Assignment 3: Scrollable List
+
+Members: Justin Dela Cruz
+
+All images local
+
+Using Flutter + Dart + Google Fonts
